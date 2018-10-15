@@ -1,0 +1,12 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 44B2-FD96
+
+ Directory of C:\Users\muhar\Desktop\JavaProjects
+
+15/10/2018  11:27    <DIR>          .
+15/10/2018  11:27    <DIR>          ..
+15/10/2018  11:26               683 HelloWorld.class
+09/10/2018  14:57               198 HelloWorld.java
+15/10/2018  11:27                 0 testfile.txt
+               3 File(s)            881 bytes
+               2 Dir(s)  34ÿ430ÿ042ÿ112 bytes free
